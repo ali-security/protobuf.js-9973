@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.2](https://github.com/protobufjs/protobuf.js/compare/protobufjs-cli-v2.0.1...protobufjs-cli-v2.0.2) (2026-04-21)
+
+
+### Bug Fixes
+
+* refactor the code to remove subpackages ([#2146](https://github.com/protobufjs/protobuf.js/issues/2146)) ([2fe8b09](https://github.com/protobufjs/protobuf.js/commit/2fe8b0940eb7a1a450d2c39045f3e3226867cb09))
+
 ## [2.0.1](https://github.com/protobufjs/protobuf.js/compare/protobufjs-cli-v2.0.0...protobufjs-cli-v2.0.1) (2026-03-11)
 
 
